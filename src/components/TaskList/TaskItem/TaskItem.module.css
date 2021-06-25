@@ -1,0 +1,16 @@
+.app_wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: left;
+  width: inherit;
+  background-color: rgb(34, 139, 34,1);
+}
+ .completed {
+  background-color: rgb(128,128,128,1);
+}
+.completed p{
+ text-decoration: line-through;
+}

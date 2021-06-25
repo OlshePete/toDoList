@@ -1,0 +1,13 @@
+.header { 
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 6fr 1fr;
+}
+.title {
+  margin:auto;
+}
+.title a{
+  font-size: 28px;
+  font-weight: 600;
+  text-decoration: none;
+}

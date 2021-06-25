@@ -1,0 +1,7 @@
+.app_wrapper {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+.header {
+  background-color: rgb(255, 234, 13);
+}
